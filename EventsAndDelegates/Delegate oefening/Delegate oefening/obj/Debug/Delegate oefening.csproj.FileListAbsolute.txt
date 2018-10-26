@@ -1,0 +1,7 @@
+C:\Users\jeffr\source\repos\Delegate oefening\Delegate oefening\bin\Debug\Delegate oefening.exe.config
+C:\Users\jeffr\source\repos\Delegate oefening\Delegate oefening\bin\Debug\Delegate oefening.exe
+C:\Users\jeffr\source\repos\Delegate oefening\Delegate oefening\bin\Debug\Delegate oefening.pdb
+C:\Users\jeffr\source\repos\Delegate oefening\Delegate oefening\obj\Debug\Delegate oefening.csprojAssemblyReference.cache
+C:\Users\jeffr\source\repos\Delegate oefening\Delegate oefening\obj\Debug\Delegate oefening.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\source\repos\Delegate oefening\Delegate oefening\obj\Debug\Delegate oefening.exe
+C:\Users\jeffr\source\repos\Delegate oefening\Delegate oefening\obj\Debug\Delegate oefening.pdb
